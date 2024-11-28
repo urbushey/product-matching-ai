@@ -1,7 +1,7 @@
 [
-  { "ProductID": "SBD-PT-02", "ProductName": "Circular Saw 15Amp 7-1/4in" },
-  { "ProductID": "SBD-AC-003", "ProductName": "14-Piece Drill Bit Set" },
-  { "ProductID": "SBD-HT-006", "ProductName": "10 in. Adjustable Wrench" },
-  { "ProductID": null, "ProductName": "10 in. Adjustable Wrench" },
-  { "ProductID": "Null", "ProductName": "10 in. Adjustable Wrench" }
+  { "role": "user", "content": "Match the following product: { \"ProductID\": \"SBD-PT-02\", \"ProductName\": \"Circular Saw 15Amp 7-1/4in\" }" },
+  { "role": "user", "content": "Match the following product: { \"ProductID\": \"SBD-AC-003\", \"ProductName\": \"14-Piece Drill Bit Set\" }" },
+  { "role": "user", "content": "Match the following product: { \"ProductID\": \"SBD-HT-006\", \"ProductName\": \"10 in. Adjustable Wrench\" }" },
+  { "role": "user", "content": "Match the following product: { \"ProductID\": null, \"ProductName\": \"10 in. Adjustable Wrench\" }" },
+  { "role": "user", "content": "Match the following product: { \"ProductID\": \"Null\", \"ProductName\": \"10 in. Adjustable Wrench\" }" }
 ]
