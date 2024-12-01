@@ -44,7 +44,7 @@ python scripts/llama_product_inference.py --catalog catalogs/hardware.csv --inpu
 #### Single Input Example
 
 ```bash
-python scripts/llama_product_inference.py --catalog catalogs/hardware.csv --input '{"role": "user", "content": "Match the following product: { \"ProductID\": \"SBD-PT-02\", \"ProductName\": \"Circular Saw 15Amp 7-1/4in\" }"}'
+python scripts/llama_product_inference.py --catalog catalogs/hardware.csv --input '{"role": "user", "content": "[{ "ProductID": "SBD-PT-02", "ProductName": "Circular Saw 15Amp 7-14in" }]"}'
 ```
 
 #### Input File Example
